@@ -2,7 +2,6 @@
 
 Hello!
 
-My name is Max. I play roller derby and my roller derby name is Max Meowzers. I like cats. 
-I also like dogs.
+My name is Max. I play roller derby. I like cats and dogs.
 And sharks. 
 
